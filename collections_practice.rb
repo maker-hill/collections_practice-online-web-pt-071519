@@ -18,4 +18,6 @@ def swap_elements(array)
   new_array
 end
 
-def 
+def reverse_array(array)
+  array.sort.reverse
+end
