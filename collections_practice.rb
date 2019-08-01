@@ -35,3 +35,5 @@ def find_a(array)
     l[0] == "a"
   end
 end
+
+def 
