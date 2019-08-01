@@ -12,6 +12,7 @@ end
 
 def swap_elements(array)
   array[1,2].sort
+  array
    
 end
 end
