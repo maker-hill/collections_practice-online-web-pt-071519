@@ -28,3 +28,4 @@ def kesha_maker(array)
       new_array << d[4]="$"
   new_array
 end
+end
