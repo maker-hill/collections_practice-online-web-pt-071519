@@ -42,7 +42,7 @@ def sum_array(array)
 end
 
 def add_s(array)
-  array.collect do |l|
+  array.each do |l|
     l << "s" unless l == "feet"
   end
 end  
