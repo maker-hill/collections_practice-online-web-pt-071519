@@ -41,6 +41,7 @@ def sum_array(array)
     
 end
 
-def add_s
-  
+def add_s(array)
+  array.collect do |l|
+    l << "s" unless l == "feet"
 end  
